@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EuCaioCosta
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Big Data e Machine Learning
+- 🌱 I’m currently learning Big Data and Machine Learning
 - 💞️ I’m looking to collaborate on  Data Science
 - 📫 How to reach me 
 
